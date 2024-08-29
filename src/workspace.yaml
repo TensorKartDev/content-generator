@@ -1,0 +1,7 @@
+projects:
+  name: polyfills
+  inputs:
+    - input_file_1.pdf
+    - input_file_2.ppt
+  outputs:
+    - output_file_1.docx
